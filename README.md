@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=800&lines=I'm+a+frontend+and+full-stack+developer+who+enjoys+transforming+ideas+into+elegant+web+experiences.;I+focus+on+responsive,+accessible+and+performance-optimized+apps.;Experienced+with+React,+TailwindCSS,+Node.js,+MongoDB,+and+more.;Regular+DSA+practitioner+who+loves+problem-solving.;Always+eager+to+explore+new+tech+and+best+practices." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=800&lines=I'm+a+frontend+and+full-stack+developer;who+enjoys+transforming+ideas+into+elegant+web+experiences.;I+focus+on+responsive,+accessible+and+performance-optimized+apps.;Experienced+with+React,+TailwindCSS,+Node.js,+MongoDB,+and+more.;Regular+DSA+practitioner+who+loves+problem-solving.;Always+eager+to+explore+new+tech+and+best+practices." />
 </p>
 
 ---
