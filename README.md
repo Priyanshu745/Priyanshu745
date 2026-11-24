@@ -30,7 +30,7 @@
 <p align="left">
   <!-- Languages -->
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" title="JavaScript" width="36" height="36"/>
-  
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" title="Swift" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" title="C++" width="36" height="36"/>
   
   <!-- Frontend -->
